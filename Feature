@@ -1,1 +1,1 @@
-Create table public.ro(name varchar);
+Create table public.rohith(name varchar);
